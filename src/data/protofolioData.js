@@ -1,0 +1,1 @@
+export { personalInfo as default } from "./portfolioData";
